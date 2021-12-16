@@ -31,3 +31,6 @@ const start = async () => {
 };
 
 start();
+
+
+// MONGO_URI=mongodb+srv://user:user@nodeexpressprojects.xwm8c.mongodb.net/03-TASK-MANAGER?retryWrites=true&w=majority
