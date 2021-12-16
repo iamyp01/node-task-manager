@@ -3,7 +3,6 @@
 ### Project is live at [Task Manager](https://tmappp.herokuapp.com/)
 ---
 ## Tech Stack
-```
 * Front End
   * HTML
   * CSS
@@ -14,4 +13,3 @@
   * Mongo DB Atlas (Remote DB)
 * Server
   * Heroku
-```
