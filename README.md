@@ -1,6 +1,6 @@
 # Task Manager App
 
-### Project is live at [Task Manager](https://tmappp.herokuapp.com/)
+> ### Project is live at [Task Manager](https://tmappp.herokuapp.com/)
 ## Tech Stack
 * Front End
   * HTML
